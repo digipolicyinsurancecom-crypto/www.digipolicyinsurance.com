@@ -1,0 +1,6 @@
+{
+  "name": "DigiPolicy TrustGuard - Sahi Advice Sahi Insurance",
+  "description": "Licensed corporate insurance broking platform for transparent policy comparisons, instant e-policy quotations, and 24x7 cashless claims concierge across Eastern India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

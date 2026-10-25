@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  body {
+    font-family: var(--font-sans);
+  }
+}
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-primary-navy: #001f41;
+  --color-primary-dark: #0f3460;
+  --color-primary-marine: #002136;
+  --color-brand-orange: #e8630a;
+  --color-brand-orange-hover: #d35400;
+  --color-brand-gold: #d4a347;
+  --color-brand-blue: #3282b8;
+  --color-trust-emerald: #10b981;
+  --color-alert-coral: #ef4444;
+  --color-surface-canvas: #f8fafc;
+}
